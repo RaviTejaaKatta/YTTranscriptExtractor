@@ -8,7 +8,6 @@ This repository houses the data collected for our groundbreaking chatbot project
 
 ## What's Inside?
 
-- `data/`: Behold, the Holy Grail of chatbot data – a directory containing our precious subtitle files. Don't touch them; they're fragile.
 - `YTVideosTranscript.py`: A riveting tale in the form of a python file, chronicling our epic data collection journey. Spoiler alert: there were ups, downs, and lots of code.
 - `requirements.txt`: A boring list of Python libraries we begrudgingly depend on. Because what's a project without dependencies, right?
 
@@ -16,7 +15,6 @@ This repository houses the data collected for our groundbreaking chatbot project
 
 1. Clone this repository to your local machine. Or don't. We won't force you, but we'll silently judge you if you don't.
 2. Install the required Python libraries. You know the drill – just run `pip install -r requirements.txt`. It's not rocket science.
-3. Explore the `data/` directory. Behold the wonders of our meticulously curated subtitle files. Use them wisely, for they hold the secrets to... well, subtitles.
 
 ## Contributing
 
