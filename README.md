@@ -9,7 +9,7 @@ This repository houses the data collected for our groundbreaking chatbot project
 ## What's Inside?
 
 - `data/`: Behold, the Holy Grail of chatbot data – a directory containing our precious subtitle files. Don't touch them; they're fragile.
-- `data_collection.ipynb`: A riveting tale in the form of a Jupyter Notebook, chronicling our epic data collection journey. Spoiler alert: there were ups, downs, and lots of code.
+- `YTVideosTranscript.py`: A riveting tale in the form of a python file, chronicling our epic data collection journey. Spoiler alert: there were ups, downs, and lots of code.
 - `requirements.txt`: A boring list of Python libraries we begrudgingly depend on. Because what's a project without dependencies, right?
 
 ## How to Use
